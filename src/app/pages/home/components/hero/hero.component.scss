@@ -1,0 +1,17 @@
+.hero {
+  margin-left: 10px;
+
+  h2 {
+    padding: 20px;
+  }
+
+  .hero-gallery {
+    display: flex;
+    flex-direction: row;
+
+    img {
+      width: 200px;
+      padding: 5px;
+    }
+  }
+}
